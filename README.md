@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Jona and I'm currently a student of computer science.
+
+Feel free to discover some of my projects!
+
 <!--
 **jonaheinke/jonaheinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
